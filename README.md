@@ -11,11 +11,7 @@
    </header>
    <section id="about" style="padding: 20px; margin: 20px auto; background: white; max-width: 800px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2 style="color: #0078d7; margin-bottom: 10px;">About Me:</h2>
-        <p>Hi, I’m Gowthami, a 3rd year Data Science Student at Vignan's Foundation for Science, Technology & ResearchData Engineering and Machine Learning Engineering. 
-        I am fascinated by the power of data and its ability to drive insights and solutions. I enjoy building scalable data pipelines, 
-        exploring machine learning models, and contributing to innovative projects that blend data science and engineering. 
-        With a strong foundation in programming, analytics, and problem-solving, I am constantly striving to expand my expertise 
-        in these domains and make a meaningful impact.</p>
+        <p>Hi, I’m Gowthami, a third-year Data Science student at Vignan's Foundation for Science, Technology & Research. I’m really passionate about how data can solve real-world problems and uncover valuable insights. I enjoy working with machine learning models and building data pipelines, and I love diving into projects that bring together both data science and engineering. I’m always looking for ways to improve my skills and learn new things, whether it's through hands-on projects or exploring new concepts in programming, analytics, and problem-solving.</p>
     </section>
     <section id="skills" style="padding: 20px; margin: 20px auto; background: white; max-width: 800px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2 style="color: #0078d7; margin-bottom: 10px;">Skills and Expertise:</h2>
