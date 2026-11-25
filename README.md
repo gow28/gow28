@@ -1,52 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi, I'm Naga Gowthami Thanubuddu! 👋
 
-<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; background: #f4f4f4;">
-    <header style="position: relative; text-align: center; color: white;">
-    <img src="https://thumbs.dreamstime.com/b/data-science-deep-learning-artificial-intelligence-analysis-internet-modern-technology-concept-130068639.jpg"  style="width: 100%; height: 300px; object-fit: cover;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px;">
-        <h1 style="margin: 0; font-size: 2.5em;">THANUBUDDU NAGA GOWTHAMI</h1>
-        <p style="font-size: 1.5em; margin: 10px 0;">Aspiring Data Engineer and Machine Learning Engineer</p>
-    </div>
-   </header>
-   <section id="about" style="padding: 20px; margin: 20px auto; background: white; max-width: 800px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        <h2 style="color: #0078d7; margin-bottom: 10px;">About Me:</h2>
-        <p>Hi, I’m Gowthami, a third-year Data Science student at Vignan's Foundation for Science, Technology & Research. I’m really passionate about how data can solve real-world problems and uncover valuable insights. I enjoy working with machine learning models and building data pipelines, and I love diving into projects that bring together both data science and engineering. I’m always looking for ways to improve my skills and learn new things, whether it's through hands-on projects or exploring new concepts in programming, analytics, and problem-solving.</p>
-    </section>
-    <section id="skills" style="padding: 20px; margin: 20px auto; background: white; max-width: 800px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        <h2 style="color: #0078d7; margin-bottom: 10px;">Skills and Expertise:</h2>
-        <ul style="list-style: none; padding: 0;">
-            <li><b>Programming Languages:</b>Java,Python,C </li>
-            <li><b>Web Development:</b> HTML, CSS, JavaScript, AngularJS, ReactJS</li>
-            <li><b>Backend Development:</b> Node.js, Express, PHP</li>
-            <li><b>Database Management:</b> MySQL, MongoDB</li>
-        </ul>
-    </section>
-    <section id="projects" style="padding: 20px; margin: 20px auto; background: white; max-width: 800px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        <h2 style="color: #0078d7; margin-bottom: 10px;">Projects:</h2>
-        <div class="project" style="margin-bottom: 15px;">
-            <h3 style="margin: 5px 0; color: #333;">Blood Bank and Donor Management System</h3>
-            <p style="margin: 5px 0;">A PHP-based application to manage donor and blood bank details using MySQL databases.</p>
-            <p><b>Tech Stack:</b> PHP, MySQL, HTML, CSS</p>
-        </div>
-        <div class="project" style="margin-bottom: 15px;">
-            <h3 style="margin: 5px 0; color: #333;">E-Commerce Application</h3>
-            <p style="margin: 5px 0;">Developed an e-commerce platform featuring 'Add to Cart' functionality and MongoDB database integration.</p>
-            <p><b>Tech Stack:</b> ReactJS, Node.js, MongoDB</p>
-        </div>
-        <div class="project" style="margin-bottom: 15px;">
-            <h3 style="margin: 5px 0; color: #333;">Sustainable Food Products Platform</h3>
-            <p style="margin: 5px 0;">A website for promoting organic products with a focus on meal plans, recipes, and traditional food health benefits.</p>
-            <p><b>Tech Stack:</b> HTML, CSS, AngularJS</p>
-        </div>
-    </section>
-    <section id="contact" style="padding: 20px; margin: 20px auto; background: white; max-width: 800px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        <h2 style="color: #0078d7; margin-bottom: 10px;">Connect With Me:</h2>
-        <ul style="list-style: none; padding: 0;">
-            <li style="margin: 5px 0;"><b>Email:</b> <a href="mailto:thanubuddunagagowthami@gmail.com" style="color: #0078d7; text-decoration: none;">thanubuddunagagowthami@gmail.com</a></li>
-            <li style="margin: 5px 0;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/naga-gowthami/" target="_blank" style="color: #0078d7; text-decoration: none;">https://www.linkedin.com/in/naga-gowthami/</a></li>
-        </ul>
-    </section>
-</body>
-</html>
+### Software Developer | Machine Learning Enthusiast
 
+🎓 B.Tech Graduate in Data Science from Vignan's Foundation for Science, Technology & Research (2026).
+
+I am passionate about software development, problem-solving, and building practical applications using programming and machine learning. I enjoy working with Java, Python, Data Structures and Algorithms, and exploring how AI can solve real-world problems.
+
+
+
+## 🛠️ Technical Skills
+
+**Programming Languages:** Java, Python, SQL, JavaScript
+
+**Frontend Development:** HTML, CSS, ReactJS
+
+**Backend & APIs:** REST APIs
+
+**Frameworks & Libraries:** NumPy, Pandas, Matplotlib, TensorFlow, Keras
+
+**Databases:** MySQL
+
+**AI & ML:** Machine Learning, Deep Learning
+
+**Tools:** Git, GitHub, AWS, VS Code, Google Colab
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Lung Disease Classification Using ConvNeXt with Coordinate Attention
+
+**Technologies:** Python, Deep Learning, ConvNeXt, Coordinate Attention
+
+- Developed a deep learning model to classify four lung disease categories using the COVID-19 Radiography Dataset containing 21K+ chest X-ray images.
+- Implemented a lightweight ConvNeXt-Nano architecture integrated with Coordinate Attention to improve feature extraction.
+- Applied CLAHE-based lung masking, image preprocessing, data augmentation, and class-weighted training.
+- Achieved **84% classification accuracy**, improving by 4% over the ConvNeXt-Tiny baseline.
+
+### 2. Plant Disease Detection Using Deep Learning
+
+**Technologies:** Python, EfficientNetB0, Deep Learning, Grad-CAM, Google Colab
+
+- Built an end-to-end deep learning pipeline to identify plant diseases from images using the EfficientNetB0 architecture.
+- Applied data augmentation and model optimization to improve classification performance.
+- Integrated Grad-CAM to visualize important image regions influencing model predictions.
+- Achieved **98.7% accuracy** and implemented Google Drive-based model loading for remote access.
+
+### 3. News Webpage Using APIs
+
+**Technologies:** HTML, CSS, JavaScript, REST APIs
+
+- Developed a dynamic news webpage that retrieves and displays real-time news information using RESTful APIs.
+- Integrated API-based data retrieval to provide users with updated news content.
+- Implemented caching strategies to reduce redundant server requests and improve application performance.
+- Reduced page load times by **40%**, supporting a user base of 500+ daily active users.
+
+### 4. Blood Bank Management System
+
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+
+- Developed a full-stack web application to manage blood donor information and blood bank inventory records.
+- Implemented CRUD operations for managing donor details and blood stock information.
+- Added input validation and efficient database retrieval to improve data accuracy.
+- Reduced manual data entry time by 20% and improved access to blood inventory information.
+
+---
+
+## 💼 Experience
+
+**Python Programming Language Teaching Assistant**  
+Vignan University | February 2026 – May 2026
+
+- Conducted interactive lectures and doubt-clearing sessions for 200+ students, explaining Python programming concepts through practical examples.
+- Guided students in algorithm development, assignments, and project implementation using real-world datasets.
+- Helped students strengthen their programming knowledge and problem-solving abilities.
+
+
+
+## 📄 Research Publication
+
+**Lung Disease Classification from Chest X-Rays Using ConvNeXt with Coordinate Attention on the COVID-19 Radiography Dataset**
+
+Co-authored research paper published in the Proceedings of the 8th International Conference on Inventive Material Science and Applications (ICIMA 2026), IEEE.
+
+
+
+## 🤝 Connect With Me
+- **LinkedIn:** [Naga Gowthami](https://www.linkedin.com/in/naga-gowthami/)
+
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
